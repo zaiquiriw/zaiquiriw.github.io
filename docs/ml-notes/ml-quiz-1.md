@@ -68,3 +68,4 @@ Unsupervised learning is informative while reinforcement learning is Active! **p
 > A: *response*
 "If we want to learn GPA as a function of the other 3 features, we say that GPA is our target" **p26**
 <!--ID: 1661553050798-->
+
