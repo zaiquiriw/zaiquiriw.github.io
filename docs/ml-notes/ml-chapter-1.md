@@ -53,3 +53,8 @@ If we want to learn about one of the attributes or features, it is our ***Target
 - $x_i$ subscript $i$ indexes observations in a data set; $i$ ranges from $1$ to $N$, the number of observations (rows) in the data set.
 - $x_{i,j}$ subscript $j$ indexes predictors in a data set; $j$ ranges from $1$ to $P$, the number of predictors (columns) in the data set. Here we are referencing predictor $j$ from observation $i$.
 - In matrix notation, lower case letters like $x$ represent vectors, and upper case bold face letters like $X$ represent matrices.
+
+
+| file.inlinks                                                                                                                                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[School/machine-learning/ml-study-guide.md\\|ml-study-guide]]</li><li>[[School/machine-learning/video-notes/ml01-the-craft-of-machine-learning.md\\|ml01-the-craft-of-machine-learning]]</li><li>[[School/machine-learning/quiz-notes/ml-quiz-1.md\\|ml-quiz-1]]</li></ul> |
