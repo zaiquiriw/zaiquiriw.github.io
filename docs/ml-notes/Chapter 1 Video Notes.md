@@ -58,7 +58,7 @@ ML grew out of math and science, so we see a lot of duplicate terminology. Like 
 	- In *supervised learning*, we select a *target* column, while the rest are *predictors*.
 - Data can be *quantitative*  and *numeric*, or *qualitative*, *categorical*, and *factors*.
 	- The GPA, Hours, SAT Score above are numeric
-	- Class membership is encoded given some quanitative term
+	- Class membership is encoded given some quantitative term
 
 ## Challenges for Society
 - What is the legal precedence of bad machine learning models
@@ -95,5 +95,3 @@ In the TIOBE Index (May 2020), Python was 3rd, while R was 10th. It was simply a
 
 ## More
 All of this content is further explored in [[ml-chapter-1]] and tested on [[ml-quiz-1]]
-
-![[ml-quiz-1]]
