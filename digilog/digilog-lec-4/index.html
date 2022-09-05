@@ -6,10 +6,10 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
 <meta content="All things ZaiquiriW" name="description"/>
-<link href="https://zaiquiri.github.io/ml-notes/ml-quiz-1/" rel="canonical"/>
+<link href="https://zaiquiri.github.io/digilog/digilog-lec-4/" rel="canonical"/>
 <link href="../../assets/meta/favicons.png" rel="icon"/>
 <meta content="mkdocs-1.3.1, mkdocs-material-8.4.2" name="generator"/>
-<title>Quiz 1: Chapter 1 Introduction - ZaiquiriW</title>
+<title>Lecture 4: Logic Gates - ZaiquiriW</title>
 <link href="../../assets/stylesheets/main.69437709.min.css" rel="stylesheet"/>
 <link href="../../assets/stylesheets/palette.cbb835fc.min.css" rel="stylesheet"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
@@ -32,8 +32,8 @@
     });
   </script>
 <link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" referrerpolicy="no-referrer" rel="stylesheet"/>
-<meta content="Quiz 1: Chapter 1 Introduction" property="og:title"/>
-<meta content="Quiz 1: Chapter 1 Introduction" name="twitter:title"/>
+<meta content="Lecture 4: Logic Gates" property="og:title"/>
+<meta content="Lecture 4: Logic Gates" name="twitter:title"/>
 <meta content="All things ZaiquiriW" name="og:description"/>
 <meta content="All things ZaiquiriW" name="twitter:description"/>
 <meta content="summary_large_image" name="twitter:card"/>
@@ -46,7 +46,7 @@
 <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
 <label class="md-overlay" for="__drawer"></label>
 <div data-md-component="skip">
-<a class="md-skip" href="#quiz-1-chapter-1-introduction">
+<a class="md-skip" href="#lecture-4-logic-gates">
           Skip to content
         </a>
 </div>
@@ -70,7 +70,7 @@
 <div class="md-header__topic" data-md-component="header-topic">
 <span class="md-ellipsis">
             
-              Quiz 1: Chapter 1 Introduction
+              Lecture 4: Logic Gates
             
           </span>
 </div>
@@ -122,12 +122,12 @@
 <div class="md-tabs__inner md-grid">
 <ul class="md-tabs__list">
 <li class="md-tabs__item">
-<a class="md-tabs__link" href="../../digilog/digilog-lec-4/">
+<a class="md-tabs__link md-tabs__link--active" href="./">
         Digilog
       </a>
 </li>
 <li class="md-tabs__item">
-<a class="md-tabs__link md-tabs__link--active" href="../">
+<a class="md-tabs__link" href="../../ml-notes/">
         Ml notes
       </a>
 </li>
@@ -149,8 +149,8 @@
     ZaiquiriW
   </label>
 <ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item md-nav__item--nested">
-<input checked="" class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_1" id="__nav_1" type="checkbox"/>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" data-md-toggle="__nav_1" id="__nav_1" type="checkbox"/>
 <label class="md-nav__link" for="__nav_1">
           Digilog
           <span class="md-nav__icon md-icon"></span>
@@ -161,18 +161,93 @@
           Digilog
         </label>
 <ul class="md-nav__list" data-md-scrollfix="">
-<li class="md-nav__item">
-<a class="md-nav__link" href="../../digilog/digilog-lec-4/">
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          Lecture 4: Logic Gates
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
         Lecture 4: Logic Gates
       </a>
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#lecture-4-logic-gates">
+    Lecture 4: Logic Gates
+  </a>
+<nav aria-label="Lecture 4: Logic Gates" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#truth-tables">
+    Truth Tables
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#multiple-variables-and-mixed-gates">
+    Multiple Variables and Mixed Gates
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#waveform-behavior-view">
+    Waveform Behavior View
+  </a>
+<nav aria-label="Waveform Behavior View" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#example">
+    Example
+  </a>
 </li>
 </ul>
 </nav>
 </li>
-<li class="md-nav__item md-nav__item--active md-nav__item--nested">
-<input checked="" class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" id="__nav_2" type="checkbox"/>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#combinational-circuits">
+    Combinational Circuits
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#boolean-algebra">
+    Boolean Algebra
+  </a>
+<nav aria-label="Boolean Algebra" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#order-precedence">
+    Order Precedence
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#boolean-expression">
+    Boolean Expression
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#duality-of-boolean-expressions">
+    Duality of Boolean Expressions
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_2" id="__nav_2" type="checkbox"/>
 <div class="md-nav__link md-nav__link--index">
-<a href="../">Ml notes</a>
+<a href="../../ml-notes/">Ml notes</a>
 <label for="__nav_2">
 <span class="md-nav__icon md-icon"></span>
 </label>
@@ -184,46 +259,19 @@
         </label>
 <ul class="md-nav__list" data-md-scrollfix="">
 <li class="md-nav__item">
-<a class="md-nav__link" href="../Chapter%201%20Video%20Notes/">
+<a class="md-nav__link" href="../../ml-notes/Chapter%201%20Video%20Notes/">
         Chapter 1 Video Notes
       </a>
 </li>
 <li class="md-nav__item">
-<a class="md-nav__link" href="../ml-chapter-1/">
+<a class="md-nav__link" href="../../ml-notes/ml-chapter-1/">
         Chapter 1: Introduction
       </a>
 </li>
-<li class="md-nav__item md-nav__item--active">
-<input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
-<label class="md-nav__link md-nav__link--active" for="__toc">
-          Quiz 1: Chapter 1 Introduction
-          <span class="md-nav__icon md-icon"></span>
-</label>
-<a class="md-nav__link md-nav__link--active" href="./">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../../ml-notes/ml-quiz-1/">
         Quiz 1: Chapter 1 Introduction
       </a>
-<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
-<label class="md-nav__title" for="__toc">
-<span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
-<li class="md-nav__item">
-<a class="md-nav__link" href="#quiz-1-chapter-1-introduction">
-    Quiz 1: Chapter 1 Introduction
-  </a>
-<nav aria-label="Quiz 1: Chapter 1 Introduction" class="md-nav">
-<ul class="md-nav__list">
-<li class="md-nav__item">
-<a class="md-nav__link" href="#qa">
-    Q&amp;A
-  </a>
-</li>
-</ul>
-</nav>
-</li>
-</ul>
-</nav>
 </li>
 </ul>
 </nav>
@@ -243,15 +291,63 @@
     </label>
 <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
 <li class="md-nav__item">
-<a class="md-nav__link" href="#quiz-1-chapter-1-introduction">
-    Quiz 1: Chapter 1 Introduction
+<a class="md-nav__link" href="#lecture-4-logic-gates">
+    Lecture 4: Logic Gates
   </a>
-<nav aria-label="Quiz 1: Chapter 1 Introduction" class="md-nav">
+<nav aria-label="Lecture 4: Logic Gates" class="md-nav">
 <ul class="md-nav__list">
 <li class="md-nav__item">
-<a class="md-nav__link" href="#qa">
-    Q&amp;A
+<a class="md-nav__link" href="#truth-tables">
+    Truth Tables
   </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#multiple-variables-and-mixed-gates">
+    Multiple Variables and Mixed Gates
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#waveform-behavior-view">
+    Waveform Behavior View
+  </a>
+<nav aria-label="Waveform Behavior View" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#example">
+    Example
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#combinational-circuits">
+    Combinational Circuits
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#boolean-algebra">
+    Boolean Algebra
+  </a>
+<nav aria-label="Boolean Algebra" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#order-precedence">
+    Order Precedence
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#boolean-expression">
+    Boolean Expression
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#duality-of-boolean-expressions">
+    Duality of Boolean Expressions
+  </a>
+</li>
+</ul>
+</nav>
 </li>
 </ul>
 </nav>
@@ -263,80 +359,115 @@
 </div>
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
-<h1>Quiz 1: Chapter 1 Introduction</h1>
-<h2 id="quiz-1-chapter-1-introduction">Quiz 1: Chapter 1 Introduction<a class="headerlink" href="#quiz-1-chapter-1-introduction" title="Permanent link">¶</a></h2>
+<h1>Lecture 4: Logic Gates</h1>
+<h2 id="lecture-4-logic-gates">Lecture 4: Logic Gates<a class="headerlink" href="#lecture-4-logic-gates" title="Permanent link">¶</a></h2>
 <div class="admonition seealso">
-<p class="admonition-title">Source</p>
-<p>All answers found inside of <strong>Machine Learning Handbook</strong> by <em>Karen Mazidi</em><br/>
-Refernce <a class="link-tooltip" data-tooltip-content="#mlchapter1_tooltip_id" href="../ml-chapter-1/" title="ml-chapter-1">ml-chapter-1</a> for more</p>
+<p class="admonition-title">Howdy</p>
+<p>I recently set up github pages publishing so I can host my notes. I’m doing it mostly for <a href="../Machine%20Learning" title="Machine Learning">Machine Learning</a>. These notes continue from <a href="../digilog-lec-3" title="digilog-lec-3">digilog-lec-3</a></p>
 </div>
-<h3 id="qa">Q&amp;A<a class="headerlink" href="#qa" title="Permanent link">¶</a></h3>
+<h3 id="truth-tables">Truth Tables<a class="headerlink" href="#truth-tables" title="Permanent link">¶</a></h3>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>AND</th>
+<th>OR</th>
+<th>NOT</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>00</td>
+<td>0</td>
+<td>0</td>
+<td>11</td>
+</tr>
+<tr>
+<td>01</td>
+<td>0</td>
+<td>1</td>
+<td>10</td>
+</tr>
+<tr>
+<td>10</td>
+<td>0</td>
+<td>1</td>
+<td>01</td>
+</tr>
+<tr>
+<td>11</td>
+<td>1</td>
+<td>1</td>
+<td>00</td>
+</tr>
+</tbody>
+</table>
+<p><img alt="digilog-lec-4 2022-08-31 17.46.55.excalidraw" src="../digilog-lec-4%202022-08-31%2017.46.55.excalidraw" title="digilog-lec-4 2022-08-31 17.46.55.excalidraw"/></p>
+<h3 id="multiple-variables-and-mixed-gates">Multiple Variables and Mixed Gates<a class="headerlink" href="#multiple-variables-and-mixed-gates" title="Permanent link">¶</a></h3>
+<p>There is a way to simplify the study of logic gates, in general using Boolean algebra. If we wanted to study the function:<span class="arithmatex">\(<span class="arithmatex">\(F(X,Y,Z) = X Y + \overline Y Z\)</span>\)</span></p>
+<div class="admonition seealso">
+<p class="admonition-title">Latex Come On (Blame Mathjax)</p>
+<p>Well it looks like I can’t make the bar look good in minimal clicks… <a href="https://tex.stackexchange.com/questions/357922/non-combining-overline">stackoverflow</a></p>
+</div>
+<h3 id="waveform-behavior-view">Waveform Behavior View<a class="headerlink" href="#waveform-behavior-view" title="Permanent link">¶</a></h3>
+<p><img alt="450" src="../../assets/img/Logic%2BGate%2BSymbols%2Band%2BBehavior.jpg" title="450"/></p>
+<h4 id="example">Example<a class="headerlink" href="#example" title="Permanent link">¶</a></h4>
+<p><img alt="450" src="../450" title="450"/></p>
+<p>We can use a truth table to decide how the behavior of this algorithm works, but we can really just use some sort of algebraic function to determine this. For one, we could find an expression for each scenario:</p>
+<ul>
+<li>The Light is On If:<ul>
+<li>A and C are closed, OR</li>
+<li>B And C are closed Or</li>
+<li>A and B and C are closed</li>
+</ul>
+</li>
+<li><span class="arithmatex">\(L = A\cdot C + B \cdot C + A \cdot B \cdot C\)</span></li>
+<li>We need 6 gates for this at first (AND, OR, AND, OR, AND, AND)</li>
+</ul>
+<p>We need less though, optimized it is just <span class="arithmatex">\(C\cdot (A + B)\)</span>. The truth table should give the same behavior.</p>
+<h3 id="combinational-circuits">Combinational Circuits<a class="headerlink" href="#combinational-circuits" title="Permanent link">¶</a></h3>
+<p>Logic functions like described before are implemented using circuits composed of:</p>
+<ul>
+<li><em>Items:</em> An item is a circuit which implements some logical function</li>
+<li><em>Nodes:</em> A node is a connection or wire that connects to external input, output, or between inner items</li>
+</ul>
+<p>There are two classes of digital logic circuits:</p>
+<ul class="task-list">
+<li>Combinational Circuits: the output depends only on the current values of the input (memoryless)</li>
+<li class="task-list-item"><label class="task-list-control"><input disabled="" type="checkbox"/><span class="task-list-indicator"></span></label> TODO: Sequential Circuits: Idk I was on discord</li>
+</ul>
+<p>Below is an anki example, just for showing off how the export to anki works</p>
 <blockquote>
-<p>Q: Reinforcement learning is a form of supervised learning: <br/>
-A: <em>False!</em><br/>
-Supervised learning is informative while reinforcement learning is Active! <strong>p24</strong></p>
+<p>Q: What is an Item in Combinational Circuits<br/>
+A: An item in a circuit which implements some logical function</p>
 </blockquote>
-<!--ID: 1661552498156-->
-<blockquote>
-<p>Q: Reinforcement learning is a form of unsupervised learning: <br/>
-A: <em>False</em><br/>
-Unsupervised learning is informative while reinforcement learning is Active! <strong>p24</strong></p>
-</blockquote>
-<!--ID: 1661553050767-->
-<blockquote>
-<p>Q: This term refers to a type of machine learning in which the target is a quantitative variable: <br/>
-A: <em>regression</em>!<br/>
-“Like trying to predict the market value of a home given its square footage and other data” <strong>p25</strong></p>
-</blockquote>
-<!--ID: 1661553050777-->
-<blockquote>
-<p>Q: This term refers to a type of machine learning in which the target is a qualitative variable: <br/>
-A: <em>classification</em>!<br/>
-“Predicting if a borrower is a good credit risk or not, given their income” etc. <strong>p25</strong></p>
-</blockquote>
-<!--ID: 1661553050780-->
-<blockquote>
-<p>Q: Clustering is an example of this type of machine learning: <br/>
-A: <em>Unsupervised Learning</em><br/>
-“One learning scenario, clustering, seeks to group like instances. Another learning scenario, supervised learning…” <strong>p22</strong> (Meaning it is not supervised)</p>
-</blockquote>
-<!--ID: 1661553050782-->
-<blockquote>
-<p>Q: In this type of learning, one column is the target and all other columns are predictors: <br/>
-A: <em>Supervised</em><br/>
-“supervised learning refers to scenarios where each data instance has a label. This label is used to train the algorithm so that labels can be predicted for future data items.” <strong>p25</strong>. In both Regression and Classification, the target is called, well a target, so it’s safe to bet their superset is the answer</p>
-</blockquote>
-<!--ID: 1661553050785-->
-<blockquote>
-<p>Q: Another term for a qualitative column is a factor or ___ data:<br/>
-A: <em>categorical</em><br/>
-“Qualitative features are also called factors or categorical data” <strong>p26</strong></p>
-</blockquote>
-<!--ID: 1661553050788-->
-<blockquote>
-<p>Q: A column can be called a feature or a(n):<br/>
-A: <em>attribute</em><br/>
-“Each column in the table is an attribute, also called a feature or predictor” <strong>p26</strong></p>
-</blockquote>
-<!--ID: 1661553050791-->
-<blockquote>
-<p>Q: Another term for a row in a data set is a(n):<br/>
-A: <em>observation</em><br/>
-“Each row is a sample data point, also called an example, instance, or observation” <strong>p26</strong></p>
-</blockquote>
-<!--ID: 1661553050793-->
-<blockquote>
-<p>Q: Another term for a target is a(n):<br/>
-A: <em>response</em><br/>
-“If we want to learn GPA as a function of the other 3 features, we say that GPA is our target” <strong>p26</strong></p>
-</blockquote>
-<!--ID: 1661553050798-->
+<p>Combinational circuits must meet three conditions</p>
+<ul>
+<li>Every circuit element is itself combinational (which means those logic thingies lol)</li>
+<li>Every node of the circuit is either designated as an input to the circuit or connects to exactly one output terminal of a circuit element</li>
+<li>The circuit contains no cyclic paths, every path through the circuit visits each circuit node at most once.</li>
+</ul>
+<h3 id="boolean-algebra">Boolean Algebra<a class="headerlink" href="#boolean-algebra" title="Permanent link">¶</a></h3>
+<p>We have the ability to hold the values of 1 and 0 as True and False, and can use AND, OR, and NOT.</p>
+<h4 id="order-precedence">Order Precedence<a class="headerlink" href="#order-precedence" title="Permanent link">¶</a></h4>
+<ul>
+<li>Parenthesis</li>
+<li>Not</li>
+<li>AND</li>
+<li>OR</li>
+</ul>
+<p>Example:<br/>
+<span class="arithmatex">\(<span class="arithmatex">\(\bar X + Y \cdot Z\)</span>\)</span></p>
+<h4 id="boolean-expression">Boolean Expression<a class="headerlink" href="#boolean-expression" title="Permanent link">¶</a></h4>
+<p>Boolean expressions are formed by applying operators to Boolean variables. They can be represented by equations, logic gate diagrams, and a truth table.</p>
+<h4 id="duality-of-boolean-expressions">Duality of Boolean Expressions<a class="headerlink" href="#duality-of-boolean-expressions" title="Permanent link">¶</a></h4>
+<p>The dual of an algebraic expression is obtained by interchanging + and <span class="arithmatex">\(\cdot\)</span> and interchanging 0’s and 1’s. This is the definition then of the <em>dual</em>. Note that when you do this, you preserve the order of operations from the original.</p>
 <hr/>
 <div class="md-source-file">
 <small>
     
       Last update:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">August 31, 2022</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">September 5, 2022</span>
 </small>
 </div>
 <!-- Giscus -->
@@ -381,17 +512,17 @@ A: <em>response</em><br/>
 </main>
 <footer class="md-footer">
 <nav aria-label="Footer" class="md-footer__inner md-grid">
-<a aria-label="Previous: Chapter 1: Introduction" class="md-footer__link md-footer__link--prev" href="../ml-chapter-1/" rel="prev">
-<div class="md-footer__button md-icon">
-<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
-</div>
+<a aria-label="Next: Machine Learning Notes" class="md-footer__link md-footer__link--next" href="../../ml-notes/" rel="next">
 <div class="md-footer__title">
 <div class="md-ellipsis">
 <span class="md-footer__direction">
-                Previous
+                Next
               </span>
-              Chapter 1: Introduction
+              Machine Learning Notes
             </div>
+</div>
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"></path></svg>
 </div>
 </a>
 </nav>
@@ -413,12 +544,5 @@ A: <em>response</em><br/>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script src="../../assets/js/tooltipster.bundle.js"></script>
-<div class="tooltip_templates"><div id="mlchapter1_tooltip_id"><p><strong>Definition 1.1.1:</strong> <em>Machine Learning</em>: trains computers to accurately recognize patterns in data for purposes of data analysis, prediction, and/or action selection by autonomous agents</p>
-<p>The definition requires elaborations on certain terms:</p>
-<li>Data: We must both consider the ethics behind the data we use, and how organized it may be<ul>
-<li><strong>Quiz Revision</strong>: Clustering is referenced in this section as an unsupervised method to group like instances</li>
-</ul>
-</li>
-<li><strong>Quiz Revision</strong>: Clustering is referenced in this section as an unsupervised method to group like instances</li>
-<li>…</li></div></div></body>
+</body>
 </html>
