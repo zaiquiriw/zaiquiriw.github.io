@@ -1,28 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://zaiquiri.github.io/assets/</loc>
+         <lastmod>2022-09-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://zaiquiri.github.io/hidden/ml02-learning-r/</loc>
-         <lastmod>2022-08-31</lastmod>
+         <lastmod>2022-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://zaiquiri.github.io/ml-notes/</loc>
-         <lastmod>2022-08-31</lastmod>
+         <lastmod>2022-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://zaiquiri.github.io/ml-notes/Chapter%201%20Video%20Notes/</loc>
-         <lastmod>2022-08-31</lastmod>
+         <lastmod>2022-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://zaiquiri.github.io/ml-notes/ml-chapter-1/</loc>
-         <lastmod>2022-08-31</lastmod>
+         <lastmod>2022-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://zaiquiri.github.io/ml-notes/ml-quiz-1/</loc>
-         <lastmod>2022-08-31</lastmod>
+         <lastmod>2022-09-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
