@@ -1,5 +1,6 @@
 ---
 share: true
+category: obsidian
 ---
 # Data Science at Copart
 The company Copart is right next to my house. Right now, as of 2 days ago, they have a position open for a data scientist internship right now! I meet all of the requirements, and have the portfolio to support it. Now I just need to put all that together for a
