@@ -7,15 +7,26 @@ title: ML Work
 # Machine Learning Work
 Back in 2022 I took an introduction to Machine Learning with the wonderful [Karen Mazidi](https://www.linkedin.com/in/mazidiaiconsulting/) who gave us a large overview of both data science basics, and basic machine learning. The class was project based, with a focus on providing documentation of the process.
 
-## My Projects
-While I will leave my original code open source on [github](https://github.com/zaiquiriw/ml-portfolio/tree/main) the following markdown documents are reformatted for easier consumption
-### [[data exploration|Data Exploration in C++]]
-This project is a reminder that I must understand these algorithms on the low level, so we both reviewed the statistical basics and implementing covariance and correlation calculation in C++.
+## The Projects
+> [!seealso] While I will leave my original code open source on [github](https://github.com/zaiquiriw/ml-portfolio/tree/main) the following brief summaries will link to pdfs summarizing the projects.
+### Data Exploration in C++
+[[data exploration|This project]] is a reminder that I must understand these algorithms on the low level, so we both reviewed the statistical basics and implementing covariance and correlation calculation in C++.
 
 ### Linear Models
-### Logistic Regression and Naive Bayes
+Linear models assume there is a straightforward linear function that models data. This means if there is a change in the input feature, there should be a constant change on the target variable. We worked with simple algorithms of this type to get used to R, and visualizing our results using ggplot2 and other libraries.
+### Regression
+We worked with linear regression quite often, as we could often benchmark our progress developing our models and compare it to a linear model. Here is some work on the subject. My entry to using it is described [[linear regression.pdf|here]]. 
+
+### Classification
+If we wanted to use a linear function to divide data into separate discrete classes, we messed with more options.
+
+#### Naive Bayes
+
+#### Logistic Regression
+
 ### Similarities
 ### SVM and Ensemble Study
+
 ### Sklearn
 ### Image Classification in Keras
 
