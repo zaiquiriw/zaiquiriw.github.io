@@ -60,6 +60,18 @@
         "url": "hidden/.pages"
     },
     {
+        "src_uri": "obsidian/copart internship.md",
+        "dest_uri": "obsidian/copart%20internship/",
+        "name": "copart internship",
+        "url": "obsidian/copart%20internship/"
+    },
+    {
+        "src_uri": "obsidian/portfolio cleanup.md",
+        "dest_uri": "obsidian/portfolio%20cleanup/",
+        "name": "portfolio cleanup",
+        "url": "obsidian/portfolio%20cleanup/"
+    },
+    {
         "src_uri": "assets/images/favicon.png",
         "dest_uri": "assets/images/favicon.png",
         "name": "favicon",
