@@ -6,6 +6,18 @@
         "url": "./"
     },
     {
+        "src_uri": "copart internship.md",
+        "dest_uri": "copart%20internship/",
+        "name": "copart internship",
+        "url": "copart%20internship/"
+    },
+    {
+        "src_uri": "portfolio cleanup.md",
+        "dest_uri": "portfolio%20cleanup/",
+        "name": "portfolio cleanup",
+        "url": "portfolio%20cleanup/"
+    },
+    {
         "src_uri": "tags.md",
         "dest_uri": "tags/",
         "name": "tags",
