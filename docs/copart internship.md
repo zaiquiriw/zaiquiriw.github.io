@@ -28,7 +28,7 @@ This is, simply, exactly what I have experience in. But I haven't done anything 
 
 ## What I Want to Do
 I am terrified of applying to jobs. So I am going to compromise between not applying and applying right now. I'd say I have to prep my past work on the subject
-- [ ] Combine my work from Mazidi's NLP and ML classes into one portfolio in markdown
+- [ ] [[portfolio cleanup|Combine my work]] from Mazidi's NLP and ML classes into one portfolio in markdown
 - [ ] Host it on my URL with a home page summary that links to my linkedin and github
 - [ ] Clean up my github
 - [ ] Clean up my Resume to be focused on Data Science
