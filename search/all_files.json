@@ -24,6 +24,12 @@
         "url": "ML%20Work/Regression/"
     },
     {
+        "src_uri": "ML Work/RegressionSVM.md",
+        "dest_uri": "ML%20Work/RegressionSVM/",
+        "name": "RegressionSVM",
+        "url": "ML%20Work/RegressionSVM/"
+    },
+    {
         "src_uri": "ML Work/data exploration.md",
         "dest_uri": "ML%20Work/data%20exploration/",
         "name": "data exploration",
