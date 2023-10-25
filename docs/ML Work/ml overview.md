@@ -9,9 +9,8 @@ Back in 2022 I took an introduction to Machine Learning with the wonderful [Kare
 
 ## My Projects
 While I will leave my original code open source on [github](https://github.com/zaiquiriw/ml-portfolio/tree/main) the following markdown documents are reformatted for easier consumption
-### Data Exploration in C++
+### [[data exploration|Data Exploration in C++]]
 This project is a reminder that I must understand these algorithms on the low level, so we both reviewed the statistical basics and implementing covariance and correlation calculation in C++.
-
 
 ### Linear Models
 ### Logistic Regression and Naive Bayes
