@@ -1,5 +1,11 @@
 [
     {
+        "src_uri": "index.md",
+        "dest_uri": "./",
+        "name": "index",
+        "url": "./"
+    },
+    {
         "src_uri": "copart internship.md",
         "dest_uri": "copart%20internship/",
         "name": "copart internship",
