@@ -12,6 +12,18 @@
         "url": "tags/"
     },
     {
+        "src_uri": "ML Work/Classification.md",
+        "dest_uri": "ML%20Work/Classification/",
+        "name": "Classification",
+        "url": "ML%20Work/Classification/"
+    },
+    {
+        "src_uri": "ML Work/Regression.md",
+        "dest_uri": "ML%20Work/Regression/",
+        "name": "Regression",
+        "url": "ML%20Work/Regression/"
+    },
+    {
         "src_uri": "ML Work/data exploration.md",
         "dest_uri": "ML%20Work/data%20exploration/",
         "name": "data exploration",
