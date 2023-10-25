@@ -78,6 +78,12 @@
         "url": "notes/.pages"
     },
     {
+        "src_uri": "notes/Obsidian/copart internship.md",
+        "dest_uri": "notes/Obsidian/copart%20internship/",
+        "name": "copart internship",
+        "url": "notes/Obsidian/copart%20internship/"
+    },
+    {
         "src_uri": "assets/images/favicon.png",
         "dest_uri": "assets/images/favicon.png",
         "name": "favicon",
