@@ -18,6 +18,24 @@
         "url": "ML%20Work/Classification/"
     },
     {
+        "src_uri": "ML Work/ClassificationSVM.pdf",
+        "dest_uri": "ML%20Work/ClassificationSVM.pdf",
+        "name": "ClassificationSVM",
+        "url": "ML%20Work/ClassificationSVM.pdf"
+    },
+    {
+        "src_uri": "ML Work/Clustering.pdf",
+        "dest_uri": "ML%20Work/Clustering.pdf",
+        "name": "Clustering",
+        "url": "ML%20Work/Clustering.pdf"
+    },
+    {
+        "src_uri": "ML Work/Dimensionality.pdf",
+        "dest_uri": "ML%20Work/Dimensionality.pdf",
+        "name": "Dimensionality",
+        "url": "ML%20Work/Dimensionality.pdf"
+    },
+    {
         "src_uri": "ML Work/Regression.md",
         "dest_uri": "ML%20Work/Regression/",
         "name": "Regression",
@@ -30,16 +48,76 @@
         "url": "ML%20Work/RegressionSVM/"
     },
     {
+        "src_uri": "ML Work/RegressionSVM.pdf",
+        "dest_uri": "ML%20Work/RegressionSVM.pdf",
+        "name": "RegressionSVM",
+        "url": "ML%20Work/RegressionSVM.pdf"
+    },
+    {
+        "src_uri": "ML Work/SVM and ensemble.pdf",
+        "dest_uri": "ML%20Work/SVM%20and%20ensemble.pdf",
+        "name": "SVM and ensemble",
+        "url": "ML%20Work/SVM%20and%20ensemble.pdf"
+    },
+    {
         "src_uri": "ML Work/data exploration.md",
         "dest_uri": "ML%20Work/data%20exploration/",
         "name": "data exploration",
         "url": "ML%20Work/data%20exploration/"
     },
     {
+        "src_uri": "ML Work/from scratch.pdf",
+        "dest_uri": "ML%20Work/from%20scratch.pdf",
+        "name": "from scratch",
+        "url": "ML%20Work/from%20scratch.pdf"
+    },
+    {
+        "src_uri": "ML Work/keras_image_recognition.pdf",
+        "dest_uri": "ML%20Work/keras_image_recognition.pdf",
+        "name": "keras_image_recognition",
+        "url": "ML%20Work/keras_image_recognition.pdf"
+    },
+    {
+        "src_uri": "ML Work/linear classification.pdf",
+        "dest_uri": "ML%20Work/linear%20classification.pdf",
+        "name": "linear classification",
+        "url": "ML%20Work/linear%20classification.pdf"
+    },
+    {
+        "src_uri": "ML Work/linear regression.pdf",
+        "dest_uri": "ML%20Work/linear%20regression.pdf",
+        "name": "linear regression",
+        "url": "ML%20Work/linear%20regression.pdf"
+    },
+    {
         "src_uri": "ML Work/ml overview.md",
         "dest_uri": "ML%20Work/ml%20overview/",
         "name": "ml overview",
         "url": "ML%20Work/ml%20overview/"
+    },
+    {
+        "src_uri": "ML Work/ml-overview.pdf",
+        "dest_uri": "ML%20Work/ml-overview.pdf",
+        "name": "ml-overview",
+        "url": "ML%20Work/ml-overview.pdf"
+    },
+    {
+        "src_uri": "ML Work/similarities classification.pdf",
+        "dest_uri": "ML%20Work/similarities%20classification.pdf",
+        "name": "similarities classification",
+        "url": "ML%20Work/similarities%20classification.pdf"
+    },
+    {
+        "src_uri": "ML Work/similarities main.pdf",
+        "dest_uri": "ML%20Work/similarities%20main.pdf",
+        "name": "similarities main",
+        "url": "ML%20Work/similarities%20main.pdf"
+    },
+    {
+        "src_uri": "ML Work/similarities regression.pdf",
+        "dest_uri": "ML%20Work/similarities%20regression.pdf",
+        "name": "similarities regression",
+        "url": "ML%20Work/similarities%20regression.pdf"
     },
     {
         "src_uri": "assets/css/.push",
