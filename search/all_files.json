@@ -12,6 +12,18 @@
         "url": "tags/"
     },
     {
+        "src_uri": "ML Work/data exploration.md",
+        "dest_uri": "ML%20Work/data%20exploration/",
+        "name": "data exploration",
+        "url": "ML%20Work/data%20exploration/"
+    },
+    {
+        "src_uri": "ML Work/ml overview.md",
+        "dest_uri": "ML%20Work/ml%20overview/",
+        "name": "ml overview",
+        "url": "ML%20Work/ml%20overview/"
+    },
+    {
         "src_uri": "assets/css/.push",
         "dest_uri": "assets/css/.push",
         "name": ".push",
