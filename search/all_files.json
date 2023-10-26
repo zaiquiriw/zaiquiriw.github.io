@@ -120,6 +120,72 @@
         "url": "ML%20Work/similarities%20regression.pdf"
     },
     {
+        "src_uri": "NLP Work/RickMortyTwo.pdf",
+        "dest_uri": "NLP%20Work/RickMortyTwo.pdf",
+        "name": "RickMortyTwo",
+        "url": "NLP%20Work/RickMortyTwo.pdf"
+    },
+    {
+        "src_uri": "NLP Work/Summary_of_Attention_Article.pdf",
+        "dest_uri": "NLP%20Work/Summary_of_Attention_Article.pdf",
+        "name": "Summary_of_Attention_Article",
+        "url": "NLP%20Work/Summary_of_Attention_Article.pdf"
+    },
+    {
+        "src_uri": "NLP Work/hugging-face.ipynb - Colaboratory.pdf",
+        "dest_uri": "NLP%20Work/hugging-face.ipynb%20-%20Colaboratory.pdf",
+        "name": "hugging-face.ipynb - Colaboratory",
+        "url": "NLP%20Work/hugging-face.ipynb%20-%20Colaboratory.pdf"
+    },
+    {
+        "src_uri": "NLP Work/ngrams-assignment.pdf",
+        "dest_uri": "NLP%20Work/ngrams-assignment.pdf",
+        "name": "ngrams-assignment",
+        "url": "NLP%20Work/ngrams-assignment.pdf"
+    },
+    {
+        "src_uri": "NLP Work/overview-of-nlp.pdf",
+        "dest_uri": "NLP%20Work/overview-of-nlp.pdf",
+        "name": "overview-of-nlp",
+        "url": "NLP%20Work/overview-of-nlp.pdf"
+    },
+    {
+        "src_uri": "NLP Work/report.pdf",
+        "dest_uri": "NLP%20Work/report.pdf",
+        "name": "report",
+        "url": "NLP%20Work/report.pdf"
+    },
+    {
+        "src_uri": "NLP Work/sentence_parsing.pdf",
+        "dest_uri": "NLP%20Work/sentence_parsing.pdf",
+        "name": "sentence_parsing",
+        "url": "NLP%20Work/sentence_parsing.pdf"
+    },
+    {
+        "src_uri": "NLP Work/summary.md",
+        "dest_uri": "NLP%20Work/summary/",
+        "name": "summary",
+        "url": "NLP%20Work/summary/"
+    },
+    {
+        "src_uri": "NLP Work/summary.pdf",
+        "dest_uri": "NLP%20Work/summary.pdf",
+        "name": "summary",
+        "url": "NLP%20Work/summary.pdf"
+    },
+    {
+        "src_uri": "NLP Work/text-classification.pdf",
+        "dest_uri": "NLP%20Work/text-classification.pdf",
+        "name": "text-classification",
+        "url": "NLP%20Work/text-classification.pdf"
+    },
+    {
+        "src_uri": "NLP Work/wordnet.pdf",
+        "dest_uri": "NLP%20Work/wordnet.pdf",
+        "name": "wordnet",
+        "url": "NLP%20Work/wordnet.pdf"
+    },
+    {
         "src_uri": "assets/css/.push",
         "dest_uri": "assets/css/.push",
         "name": ".push",
