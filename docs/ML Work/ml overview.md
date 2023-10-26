@@ -7,30 +7,6 @@ title: ML Work
 # Machine Learning Work
 Back in 2022 I took an introduction to Machine Learning with the wonderful [Karen Mazidi](https://www.linkedin.com/in/mazidiaiconsulting/) who gave us a large overview of both data science basics, and basic machine learning. The class was project based, with a focus on providing documentation of the process.
 
-## The Projects
-> [!seealso] While I will leave my original code open source on [github](https://github.com/zaiquiriw/ml-portfolio/tree/main) the following brief summaries will link to pdfs summarizing the projects.
-### Data Exploration in C++
-[[data exploration|This project]] is a reminder that I must understand these algorithms on the low level, so we both reviewed the statistical basics and implementing covariance and correlation calculation in C++.
-
-### Linear Models
-Linear models assume there is a straightforward linear function that models data. This means if there is a change in the input feature, there should be a constant change on the target variable. We worked with simple algorithms of this type to get used to R, and visualizing our results using ggplot2 and other libraries.
-### Regression
-We worked with linear regression quite often, as we could often benchmark our progress developing our models and compare it to a linear model. Here is some work on the subject. My entry to using it is described [[linear regression.pdf|here]]. 
-
-### Classification
-If we wanted to use a linear function to divide data into separate discrete classes, we messed with more options.
-
-#### Naive Bayes
-
-#### Logistic Regression
-
-### Similarities
-### SVM and Ensemble Study
-
-### Sklearn
-### Image Classification in Keras
-
-
 ## Learning in R
 We covered using R for a variety of algorithms:
 - Linear Regression
@@ -58,3 +34,23 @@ To implement all the algorithms we just learned. Python allowed us to branch int
 ## Continued Work
 This class carried into my work in NLP, which happened to coincide with the emergence of Open-AI's ChatGPT. [[nlp overview|Check it out]] for work on more advanced neural nets
 
+## The Projects
+> [!seealso] While I will leave my original code open source on [github](https://github.com/zaiquiriw/ml-portfolio/tree/main) the following brief summaries will link to pdfs summarizing the projects.
+
+- [[data exploration|Low Level Basics]]: I worked a little bit in C++ to implement basic statistics calculations, just to make sure I had the swing of things.
+- ***Linear Models***: Assuming that problem, its input and output, are linearly related, there are multiple ways to create a predictive supervised model:
+	- [[linear regression.pdf|Linear Regression]]
+	- [[linear classification.pdf|Linear Classification]]: Naive Bayes and Logistic Regression
+	- [[from scratch.pdf|Building From Scratch]]
+- ***Similarities***: If instead of predicting a target value, we just wanted to understand the data, we have many different methods of breaking down complex (and high dimensional) data. This works hand in hand with dimensionality reduction. I have more on the subject [[similarities main.pdf|here]]. kNN and K-means algorithms were both good tools to improve the performance of our previous models.
+	- [[similarities regression.pdf|Using similarties to improve regression]]
+	- [[similarities classification.pdf|Using similarities to improve classification]]
+	- [[Clustering.pdf|Clustering Spotify genres]]
+	- [[Dimensionality.pdf|Failed dimensionality reduction of Spotify]]
+- ***Support Vector Machines***: SVM's divide data in such a way that optimizes the margin between data. While we can perhaps visualize data being split by a line for classification, this method can not only be used for high dimensional classification but regression as well. I have a much better description [[SVM and ensemble.pdf|here]].
+	- [[ClassificationSVM.pdf|Classifciaton with SVMs]]
+	- [[RegressionSVM.pdf|Regression with SVMs]]
+- ***Neural Networks***: While I explore neural networks in full in my future [[nlp overview|Natural Language Processing]] class, we still got some experience with how neural networks work with keras and tensorflow. Using RNN, CNN, and even finetuning on Google's MobileNet V2, I was able to create a pretty good [[keras_image_recognition.pdf|rice identification model]].
+
+
+Out of anything I would recommend reading my [[keras_image_recognition.pdf|Keras Image Classification]] paper for a good picture of the progress made in this class. Needless to say this was maybe the second most impactful class of my degree, right before [[nlp overview|NLP]].
