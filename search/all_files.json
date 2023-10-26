@@ -6,6 +6,12 @@
         "url": "./"
     },
     {
+        "src_uri": "nlp overview.md",
+        "dest_uri": "nlp%20overview/",
+        "name": "nlp overview",
+        "url": "nlp%20overview/"
+    },
+    {
         "src_uri": "tags.md",
         "dest_uri": "tags/",
         "name": "tags",
@@ -232,6 +238,12 @@
         "dest_uri": "hidden/.pages",
         "name": ".pages",
         "url": "hidden/.pages"
+    },
+    {
+        "src_uri": "nlp overview/index.md",
+        "dest_uri": "nlp%20overview/",
+        "name": "index",
+        "url": "nlp%20overview/"
     },
     {
         "src_uri": "obsidian/copart internship.md",

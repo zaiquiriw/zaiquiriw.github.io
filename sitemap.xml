@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://zaiquiri.github.io/nlp%20overview/</loc>
+         <lastmod>2023-10-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://zaiquiri.github.io/tags/</loc>
          <lastmod>2023-10-26</lastmod>
          <changefreq>daily</changefreq>
@@ -37,6 +42,11 @@
     </url>
     <url>
          <loc>https://zaiquiri.github.io/NLP%20Work/summary/</loc>
+         <lastmod>2023-10-26</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zaiquiri.github.io/nlp%20overview/</loc>
          <lastmod>2023-10-26</lastmod>
          <changefreq>daily</changefreq>
     </url>
