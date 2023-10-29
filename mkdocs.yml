@@ -1,11 +1,9 @@
-site_name: ZaiquiriW
+site_name: Zaiquiri Canoot
 site_description: All things ZaiquiriW
 site_url: https://zaiquiri.github.io
 
 theme:
     name: material
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
     custom_dir: overrides
     font:
         text: Ubuntu
@@ -16,19 +14,19 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
-      accent: light blue
+      primary: yellow
+      accent: purple
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: indigo
+      primary: deep-purple
+      accent: yellow
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
     features:
         - navigation.indexes
