@@ -10,7 +10,7 @@ Influenced by my professor, who transitioned from industry to academia, I too am
 
 Feel free to explore my projects and reach out if you have any questions or opportunities that align with my interests.
 ## TLDR
-If you want the quick version of my skills, just look over my short and sweet [[resume|resume-10-23.pdf]].
+If you want the quick version of my skills, just look over my short and sweet [[resume-10-23.pdf|resume]].
 
 ## My Projects
 
