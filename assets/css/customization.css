@@ -6,6 +6,26 @@ DONT FORGET TO EDIT THE URL
 }
 */
 
+[data-md-color-scheme="zaiq-light"] {
+    --md-primary-fg-color:        #3c3836;
+    --md-primary-bg-color:        #fbf1c7;
+
+    --md-accent-fg-color:                ;
+    --md-accent-fg-color--transparent:   ;
+    --md-accent-bg-color:                ;
+    --md-accent-bg-color--light:         ;
+}
+
+[data-md-color-scheme="zaiq-dark"] {
+    --md-primary-fg-color:               #ebdbb2;
+    --md-primary-bg-color:               #282828;
+
+    --md-accent-fg-color:                #ebdbb2;
+    --md-accent-fg-color--transparent:   #ebdbb2;
+    --md-accent-bg-color:                #ebdbb2;
+    --md-accent-bg-color--light:         #ebdbb2;
+}
+
 .md-typeset details.wiki,
 .md-typeset .admonition.wiki {
     border-color: transparent;

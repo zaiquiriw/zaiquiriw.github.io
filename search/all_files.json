@@ -6,190 +6,154 @@
         "url": "./"
     },
     {
-        "src_uri": "nlp overview.md",
-        "dest_uri": "nlp%20overview/",
-        "name": "nlp overview",
-        "url": "nlp%20overview/"
-    },
-    {
-        "src_uri": "tags.md",
-        "dest_uri": "tags/",
-        "name": "tags",
-        "url": "tags/"
-    },
-    {
-        "src_uri": "ML Work/Classification.md",
-        "dest_uri": "ML%20Work/Classification/",
-        "name": "Classification",
-        "url": "ML%20Work/Classification/"
-    },
-    {
-        "src_uri": "ML Work/ClassificationSVM.pdf",
-        "dest_uri": "ML%20Work/ClassificationSVM.pdf",
+        "src_uri": "ClassificationSVM.pdf",
+        "dest_uri": "ClassificationSVM.pdf",
         "name": "ClassificationSVM",
-        "url": "ML%20Work/ClassificationSVM.pdf"
+        "url": "ClassificationSVM.pdf"
     },
     {
-        "src_uri": "ML Work/Clustering.pdf",
-        "dest_uri": "ML%20Work/Clustering.pdf",
+        "src_uri": "Clustering.pdf",
+        "dest_uri": "Clustering.pdf",
         "name": "Clustering",
-        "url": "ML%20Work/Clustering.pdf"
+        "url": "Clustering.pdf"
     },
     {
-        "src_uri": "ML Work/Dimensionality.pdf",
-        "dest_uri": "ML%20Work/Dimensionality.pdf",
+        "src_uri": "Dimensionality.pdf",
+        "dest_uri": "Dimensionality.pdf",
         "name": "Dimensionality",
-        "url": "ML%20Work/Dimensionality.pdf"
+        "url": "Dimensionality.pdf"
     },
     {
-        "src_uri": "ML Work/Regression.md",
-        "dest_uri": "ML%20Work/Regression/",
-        "name": "Regression",
-        "url": "ML%20Work/Regression/"
+        "src_uri": "ML Work.md",
+        "dest_uri": "ML%20Work/",
+        "name": "ML Work",
+        "url": "ML%20Work/"
     },
     {
-        "src_uri": "ML Work/RegressionSVM.md",
-        "dest_uri": "ML%20Work/RegressionSVM/",
+        "src_uri": "NLP Work.md",
+        "dest_uri": "NLP%20Work/",
+        "name": "NLP Work",
+        "url": "NLP%20Work/"
+    },
+    {
+        "src_uri": "RegressionSVM.pdf",
+        "dest_uri": "RegressionSVM.pdf",
         "name": "RegressionSVM",
-        "url": "ML%20Work/RegressionSVM/"
+        "url": "RegressionSVM.pdf"
     },
     {
-        "src_uri": "ML Work/RegressionSVM.pdf",
-        "dest_uri": "ML%20Work/RegressionSVM.pdf",
-        "name": "RegressionSVM",
-        "url": "ML%20Work/RegressionSVM.pdf"
-    },
-    {
-        "src_uri": "ML Work/SVM and ensemble.pdf",
-        "dest_uri": "ML%20Work/SVM%20and%20ensemble.pdf",
-        "name": "SVM and ensemble",
-        "url": "ML%20Work/SVM%20and%20ensemble.pdf"
-    },
-    {
-        "src_uri": "ML Work/data exploration.md",
-        "dest_uri": "ML%20Work/data%20exploration/",
-        "name": "data exploration",
-        "url": "ML%20Work/data%20exploration/"
-    },
-    {
-        "src_uri": "ML Work/from scratch.pdf",
-        "dest_uri": "ML%20Work/from%20scratch.pdf",
-        "name": "from scratch",
-        "url": "ML%20Work/from%20scratch.pdf"
-    },
-    {
-        "src_uri": "ML Work/keras_image_recognition.pdf",
-        "dest_uri": "ML%20Work/keras_image_recognition.pdf",
-        "name": "keras_image_recognition",
-        "url": "ML%20Work/keras_image_recognition.pdf"
-    },
-    {
-        "src_uri": "ML Work/linear classification.pdf",
-        "dest_uri": "ML%20Work/linear%20classification.pdf",
-        "name": "linear classification",
-        "url": "ML%20Work/linear%20classification.pdf"
-    },
-    {
-        "src_uri": "ML Work/linear regression.pdf",
-        "dest_uri": "ML%20Work/linear%20regression.pdf",
-        "name": "linear regression",
-        "url": "ML%20Work/linear%20regression.pdf"
-    },
-    {
-        "src_uri": "ML Work/ml overview.md",
-        "dest_uri": "ML%20Work/ml%20overview/",
-        "name": "ml overview",
-        "url": "ML%20Work/ml%20overview/"
-    },
-    {
-        "src_uri": "ML Work/ml-overview.pdf",
-        "dest_uri": "ML%20Work/ml-overview.pdf",
-        "name": "ml-overview",
-        "url": "ML%20Work/ml-overview.pdf"
-    },
-    {
-        "src_uri": "ML Work/similarities classification.pdf",
-        "dest_uri": "ML%20Work/similarities%20classification.pdf",
-        "name": "similarities classification",
-        "url": "ML%20Work/similarities%20classification.pdf"
-    },
-    {
-        "src_uri": "ML Work/similarities main.pdf",
-        "dest_uri": "ML%20Work/similarities%20main.pdf",
-        "name": "similarities main",
-        "url": "ML%20Work/similarities%20main.pdf"
-    },
-    {
-        "src_uri": "ML Work/similarities regression.pdf",
-        "dest_uri": "ML%20Work/similarities%20regression.pdf",
-        "name": "similarities regression",
-        "url": "ML%20Work/similarities%20regression.pdf"
-    },
-    {
-        "src_uri": "NLP Work/RickMortyTwo.pdf",
-        "dest_uri": "NLP%20Work/RickMortyTwo.pdf",
+        "src_uri": "RickMortyTwo.pdf",
+        "dest_uri": "RickMortyTwo.pdf",
         "name": "RickMortyTwo",
-        "url": "NLP%20Work/RickMortyTwo.pdf"
+        "url": "RickMortyTwo.pdf"
     },
     {
-        "src_uri": "NLP Work/Summary_of_Attention_Article.pdf",
-        "dest_uri": "NLP%20Work/Summary_of_Attention_Article.pdf",
+        "src_uri": "SVM and ensemble.pdf",
+        "dest_uri": "SVM%20and%20ensemble.pdf",
+        "name": "SVM and ensemble",
+        "url": "SVM%20and%20ensemble.pdf"
+    },
+    {
+        "src_uri": "Summary_of_Attention_Article.pdf",
+        "dest_uri": "Summary_of_Attention_Article.pdf",
         "name": "Summary_of_Attention_Article",
-        "url": "NLP%20Work/Summary_of_Attention_Article.pdf"
+        "url": "Summary_of_Attention_Article.pdf"
     },
     {
-        "src_uri": "NLP Work/hugging-face.ipynb - Colaboratory.pdf",
-        "dest_uri": "NLP%20Work/hugging-face.ipynb%20-%20Colaboratory.pdf",
+        "src_uri": "from scratch.pdf",
+        "dest_uri": "from%20scratch.pdf",
+        "name": "from scratch",
+        "url": "from%20scratch.pdf"
+    },
+    {
+        "src_uri": "hugging-face.ipynb - Colaboratory.pdf",
+        "dest_uri": "hugging-face.ipynb%20-%20Colaboratory.pdf",
         "name": "hugging-face.ipynb - Colaboratory",
-        "url": "NLP%20Work/hugging-face.ipynb%20-%20Colaboratory.pdf"
+        "url": "hugging-face.ipynb%20-%20Colaboratory.pdf"
     },
     {
-        "src_uri": "NLP Work/ngrams-assignment.pdf",
-        "dest_uri": "NLP%20Work/ngrams-assignment.pdf",
+        "src_uri": "keras_image_recognition.pdf",
+        "dest_uri": "keras_image_recognition.pdf",
+        "name": "keras_image_recognition",
+        "url": "keras_image_recognition.pdf"
+    },
+    {
+        "src_uri": "linear classification.pdf",
+        "dest_uri": "linear%20classification.pdf",
+        "name": "linear classification",
+        "url": "linear%20classification.pdf"
+    },
+    {
+        "src_uri": "linear regression.pdf",
+        "dest_uri": "linear%20regression.pdf",
+        "name": "linear regression",
+        "url": "linear%20regression.pdf"
+    },
+    {
+        "src_uri": "ml-overview.pdf",
+        "dest_uri": "ml-overview.pdf",
+        "name": "ml-overview",
+        "url": "ml-overview.pdf"
+    },
+    {
+        "src_uri": "ngrams-assignment.pdf",
+        "dest_uri": "ngrams-assignment.pdf",
         "name": "ngrams-assignment",
-        "url": "NLP%20Work/ngrams-assignment.pdf"
+        "url": "ngrams-assignment.pdf"
     },
     {
-        "src_uri": "NLP Work/overview-of-nlp.pdf",
-        "dest_uri": "NLP%20Work/overview-of-nlp.pdf",
+        "src_uri": "overview-of-nlp.pdf",
+        "dest_uri": "overview-of-nlp.pdf",
         "name": "overview-of-nlp",
-        "url": "NLP%20Work/overview-of-nlp.pdf"
+        "url": "overview-of-nlp.pdf"
     },
     {
-        "src_uri": "NLP Work/report.pdf",
-        "dest_uri": "NLP%20Work/report.pdf",
+        "src_uri": "report.pdf",
+        "dest_uri": "report.pdf",
         "name": "report",
-        "url": "NLP%20Work/report.pdf"
+        "url": "report.pdf"
     },
     {
-        "src_uri": "NLP Work/sentence_parsing.pdf",
-        "dest_uri": "NLP%20Work/sentence_parsing.pdf",
+        "src_uri": "sentence_parsing.pdf",
+        "dest_uri": "sentence_parsing.pdf",
         "name": "sentence_parsing",
-        "url": "NLP%20Work/sentence_parsing.pdf"
+        "url": "sentence_parsing.pdf"
     },
     {
-        "src_uri": "NLP Work/summary.md",
-        "dest_uri": "NLP%20Work/summary/",
+        "src_uri": "similarities classification.pdf",
+        "dest_uri": "similarities%20classification.pdf",
+        "name": "similarities classification",
+        "url": "similarities%20classification.pdf"
+    },
+    {
+        "src_uri": "similarities main.pdf",
+        "dest_uri": "similarities%20main.pdf",
+        "name": "similarities main",
+        "url": "similarities%20main.pdf"
+    },
+    {
+        "src_uri": "similarities regression.pdf",
+        "dest_uri": "similarities%20regression.pdf",
+        "name": "similarities regression",
+        "url": "similarities%20regression.pdf"
+    },
+    {
+        "src_uri": "summary.pdf",
+        "dest_uri": "summary.pdf",
         "name": "summary",
-        "url": "NLP%20Work/summary/"
+        "url": "summary.pdf"
     },
     {
-        "src_uri": "NLP Work/summary.pdf",
-        "dest_uri": "NLP%20Work/summary.pdf",
-        "name": "summary",
-        "url": "NLP%20Work/summary.pdf"
-    },
-    {
-        "src_uri": "NLP Work/text-classification.pdf",
-        "dest_uri": "NLP%20Work/text-classification.pdf",
+        "src_uri": "text-classification.pdf",
+        "dest_uri": "text-classification.pdf",
         "name": "text-classification",
-        "url": "NLP%20Work/text-classification.pdf"
+        "url": "text-classification.pdf"
     },
     {
-        "src_uri": "NLP Work/wordnet.pdf",
-        "dest_uri": "NLP%20Work/wordnet.pdf",
+        "src_uri": "wordnet.pdf",
+        "dest_uri": "wordnet.pdf",
         "name": "wordnet",
-        "url": "NLP%20Work/wordnet.pdf"
+        "url": "wordnet.pdf"
     },
     {
         "src_uri": "assets/css/.push",
@@ -216,10 +180,10 @@
         "url": "assets/css/customization.css"
     },
     {
-        "src_uri": "assets/img/.push",
-        "dest_uri": "assets/img/.push",
-        "name": ".push",
-        "url": "assets/img/.push"
+        "src_uri": "assets/img/Pasted image 20231029141843.png",
+        "dest_uri": "assets/img/Pasted%20image%2020231029141843.png",
+        "name": "Pasted image 20231029141843",
+        "url": "assets/img/Pasted%20image%2020231029141843.png"
     },
     {
         "src_uri": "assets/js/.push",
@@ -238,24 +202,6 @@
         "dest_uri": "hidden/.pages",
         "name": ".pages",
         "url": "hidden/.pages"
-    },
-    {
-        "src_uri": "nlp overview/index.md",
-        "dest_uri": "nlp%20overview/",
-        "name": "index",
-        "url": "nlp%20overview/"
-    },
-    {
-        "src_uri": "obsidian/copart internship.md",
-        "dest_uri": "obsidian/copart%20internship/",
-        "name": "copart internship",
-        "url": "obsidian/copart%20internship/"
-    },
-    {
-        "src_uri": "obsidian/portfolio cleanup.md",
-        "dest_uri": "obsidian/portfolio%20cleanup/",
-        "name": "portfolio cleanup",
-        "url": "obsidian/portfolio%20cleanup/"
     },
     {
         "src_uri": "assets/images/favicon.png",
@@ -492,16 +438,16 @@
         "url": "assets/javascripts/workers/search.f886a092.min.js.map"
     },
     {
-        "src_uri": "assets/stylesheets/main.35e1ed30.min.css",
-        "dest_uri": "assets/stylesheets/main.35e1ed30.min.css",
-        "name": "main.35e1ed30.min",
-        "url": "assets/stylesheets/main.35e1ed30.min.css"
+        "src_uri": "assets/stylesheets/main.4b4a2bd9.min.css",
+        "dest_uri": "assets/stylesheets/main.4b4a2bd9.min.css",
+        "name": "main.4b4a2bd9.min",
+        "url": "assets/stylesheets/main.4b4a2bd9.min.css"
     },
     {
-        "src_uri": "assets/stylesheets/main.35e1ed30.min.css.map",
-        "dest_uri": "assets/stylesheets/main.35e1ed30.min.css.map",
-        "name": "main.35e1ed30.min.css",
-        "url": "assets/stylesheets/main.35e1ed30.min.css.map"
+        "src_uri": "assets/stylesheets/main.4b4a2bd9.min.css.map",
+        "dest_uri": "assets/stylesheets/main.4b4a2bd9.min.css.map",
+        "name": "main.4b4a2bd9.min.css",
+        "url": "assets/stylesheets/main.4b4a2bd9.min.css.map"
     },
     {
         "src_uri": "assets/stylesheets/palette.356b1318.min.css",
