@@ -114,6 +114,12 @@
         "url": "report.pdf"
     },
     {
+        "src_uri": "resume-10-23.pdf",
+        "dest_uri": "resume-10-23.pdf",
+        "name": "resume-10-23",
+        "url": "resume-10-23.pdf"
+    },
+    {
         "src_uri": "sentence_parsing.pdf",
         "dest_uri": "sentence_parsing.pdf",
         "name": "sentence_parsing",
