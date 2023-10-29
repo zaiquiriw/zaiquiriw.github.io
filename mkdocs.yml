@@ -3,7 +3,7 @@ site_description: All things ZaiquiriW
 site_url: https://zaiquiri.github.io
 
 theme:
-    name: 'material'
+    name: material
     logo: assets/meta/favicons.png
     favicon: assets/meta/favicons.png
     custom_dir: overrides
@@ -64,9 +64,6 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.tasklist:
        custom_checkbox: true
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
   - admonition
   - toc:
       permalink: true
@@ -83,7 +80,7 @@ plugins:
   - git-revision-date-localized:
       type: date
       fallback_to_build_date: true
-      locale: fr
+      locale: en
       custom_format: "%A %d %B %Y"
       enable_creation_date: true
   - ezlinks:
@@ -94,8 +91,6 @@ plugins:
       custom-attributes: 'assets/css/custom_attributes.css'
   - custom-attributes:
       file: 'assets/css/custom_attributes.css'
-  - tags:
-      tags_file: tags.md
   - encryptcontent:
       title_prefix: '🔐'
       summary: 'Private page'

@@ -1,8 +1,7 @@
 ---
 share: true
-category: nlp overview
+title: NLP Work
 ---
-# Natural Language Processing
 Continuing my study in machine learning, I decided to focus on language processing and take a class on NLP. My class focused on learning the various libraries and ML techniques we use to under stand language, and scaling that up in python all the way to deep learning in python. We covered:
 - Foundational NLP Language distinctions like Parts of Speech and word, sentance, and corpora
 - Basic Python usage with NLTK for preprocessing

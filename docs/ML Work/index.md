@@ -1,10 +1,7 @@
 ---
 share: true
-category: ML Work
 title: ML Work
 ---
-
-# Machine Learning Work
 Back in 2022 I took an introduction to Machine Learning with the wonderful [Karen Mazidi](https://www.linkedin.com/in/mazidiaiconsulting/) who gave us a large overview of both data science basics, and basic machine learning. The class was project based, with a focus on providing documentation of the process.
 
 ## Learning in R
