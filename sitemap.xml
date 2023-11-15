@@ -2,17 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://zaiquiri.github.io/</loc>
-         <lastmod>2023-10-29</lastmod>
+         <lastmod>2023-11-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://zaiquiri.github.io/ML%20Work/</loc>
-         <lastmod>2023-10-29</lastmod>
+         <lastmod>2023-11-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://zaiquiri.github.io/NLP%20Work/</loc>
-         <lastmod>2023-10-29</lastmod>
+         <lastmod>2023-11-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zaiquiri.github.io/nlp%20overview/</loc>
+         <lastmod>2023-11-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zaiquiri.github.io/ML%20Work/data%20exploration/</loc>
+         <lastmod>2023-11-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zaiquiri.github.io/ML%20Work/ml%20overview/</loc>
+         <lastmod>2023-11-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zaiquiri.github.io/obsidian/copart%20internship/</loc>
+         <lastmod>2023-11-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://zaiquiri.github.io/obsidian/portfolio%20cleanup/</loc>
+         <lastmod>2023-11-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

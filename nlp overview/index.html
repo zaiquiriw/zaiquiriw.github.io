@@ -5,13 +5,13 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width,initial-scale=1" name="viewport"/>
-<meta content="Back in 2022 I took an introduction to Machine Learning with the wonderful Karen Mazidi who gave us a large overview of both data science basics, and basic machine learning. The class was project based, with a focus on providing documentation of the process." name="description"/>
-<link href="https://zaiquiri.github.io/ML%20Work/" rel="canonical"/>
-<link href=".." rel="prev"/>
-<link href="../NLP%20Work/" rel="next"/>
+<meta content="All things ZaiquiriW" name="description"/>
+<link href="https://zaiquiri.github.io/nlp%20overview/" rel="canonical"/>
+<link href="../NLP%20Work/" rel="prev"/>
+<link href="../ML%20Work/data%20exploration/" rel="next"/>
 <link href="../assets/images/favicon.png" rel="icon"/>
 <meta content="mkdocs-1.5.3, mkdocs-material-9.4.8" name="generator"/>
-<title>ML Work - Zaiquiri Canoot</title>
+<title>Nlp overview - Zaiquiri Canoot</title>
 <link href="../assets/stylesheets/main.4b4a2bd9.min.css" rel="stylesheet"/>
 <link href="../assets/stylesheets/palette.356b1318.min.css" rel="stylesheet"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
@@ -32,11 +32,11 @@
 <meta content="https://zaiquiri.github.io/assets/meta/SEO.png" property="og:image"/>
 <meta content="https://zaiquiri.github.io/assets/meta/SEO.png" name="twitter:image"/>
 <meta content="https://zaiquiri.github.io/" name="site_url"/>
-<meta content="ML Work" property="og:title"/>
-<meta content="ML Work" name="twitter:title"/>
-<meta content="Back in 2022 I took an introduction to Machine Learning with the wonderful Karen Mazidi who gave us a large overview of both data science basics, and basic machine learning. The class was project based, with a focus on providing documentation of the process." name="og:description"/>
-<meta content="Back in 2022 I took an introduction to Machine Learning with the wonderful Karen Mazidi who gave us a large overview of both data science basics, and basic machine learning. The class was project based, with a focus on providing documentation of the process." name="twitter:description"/>
-<script> document.title = "ML Work" </script>
+<meta content="Nlp overview" property="og:title"/>
+<meta content="Nlp overview" name="twitter:title"/>
+<meta content="All things ZaiquiriW" name="og:description"/>
+<meta content="All things ZaiquiriW" name="twitter:description"/>
+<script> document.title = "Nlp overview" </script>
 </link></link></link> <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
         html.glightbox-open { overflow: initial; height: 100%; }
         .gslide-title { margin-top: 0px; user-select: text; }
@@ -55,7 +55,7 @@
 <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
 <label class="md-overlay" for="__drawer"></label>
 <div data-md-component="skip">
-<a class="md-skip" href="#learning-in-r">
+<a class="md-skip" href="#natural-language-processing">
           Skip to content
         </a>
 </div>
@@ -79,7 +79,7 @@
 <div class="md-header__topic" data-md-component="header-topic">
 <span class="md-ellipsis">
             
-              ML Work
+              Nlp overview
             
           </span>
 </div>
@@ -140,8 +140,8 @@
 
       </a>
 </li>
-<li class="md-tabs__item md-tabs__item--active">
-<a class="md-tabs__link" href="./">
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../ML%20Work/">
         
   
     
@@ -160,8 +160,8 @@
 
       </a>
 </li>
-<li class="md-tabs__item">
-<a class="md-tabs__link" href="../nlp%20overview/">
+<li class="md-tabs__item md-tabs__item--active">
+<a class="md-tabs__link" href="./">
         
   
     
@@ -171,7 +171,7 @@
       </a>
 </li>
 <li class="md-tabs__item">
-<a class="md-tabs__link" href="data%20exploration/">
+<a class="md-tabs__link" href="../ML%20Work/data%20exploration/">
           
   
     
@@ -215,17 +215,31 @@
   </span>
 </a>
 </li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ML%20Work/">
+<span class="md-ellipsis">
+    ML Work
+  </span>
+</a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../NLP%20Work/">
+<span class="md-ellipsis">
+    NLP Work
+  </span>
+</a>
+</li>
 <li class="md-nav__item md-nav__item--active">
 <input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
 <label class="md-nav__link md-nav__link--active" for="__toc">
 <span class="md-ellipsis">
-    ML Work
+    Nlp overview
   </span>
 <span class="md-nav__icon md-icon"></span>
 </label>
 <a class="md-nav__link md-nav__link--active" href="./">
 <span class="md-ellipsis">
-    ML Work
+    Nlp overview
   </span>
 </a>
 <nav aria-label="Table of contents" class="md-nav md-nav--secondary">
@@ -235,20 +249,11 @@
     </label>
 <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
 <li class="md-nav__item">
-<a class="md-nav__link" href="#learning-in-r">
-    Learning in R
+<a class="md-nav__link" href="#natural-language-processing">
+    Natural Language Processing
   </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#learning-in-python">
-    Learning in Python
-  </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#continued-work">
-    Continued Work
-  </a>
-</li>
+<nav aria-label="Natural Language Processing" class="md-nav">
+<ul class="md-nav__list">
 <li class="md-nav__item">
 <a class="md-nav__link" href="#the-projects">
     The Projects
@@ -257,19 +262,8 @@
 </ul>
 </nav>
 </li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../NLP%20Work/">
-<span class="md-ellipsis">
-    NLP Work
-  </span>
-</a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="../nlp%20overview/">
-<span class="md-ellipsis">
-    Nlp overview
-  </span>
-</a>
+</ul>
+</nav>
 </li>
 <li class="md-nav__item md-nav__item--section md-nav__item--nested">
 <input class="md-nav__toggle md-toggle md-toggle--indeterminate" id="__nav_5" type="checkbox"/>
@@ -286,14 +280,14 @@
           </label>
 <ul class="md-nav__list" data-md-scrollfix="">
 <li class="md-nav__item">
-<a class="md-nav__link" href="data%20exploration/">
+<a class="md-nav__link" href="../ML%20Work/data%20exploration/">
 <span class="md-ellipsis">
     Data exploration
   </span>
 </a>
 </li>
 <li class="md-nav__item">
-<a class="md-nav__link" href="ml%20overview/">
+<a class="md-nav__link" href="../ML%20Work/ml%20overview/">
 <span class="md-ellipsis">
     ML Work
   </span>
@@ -348,24 +342,18 @@
     </label>
 <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
 <li class="md-nav__item">
-<a class="md-nav__link" href="#learning-in-r">
-    Learning in R
+<a class="md-nav__link" href="#natural-language-processing">
+    Natural Language Processing
   </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#learning-in-python">
-    Learning in Python
-  </a>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#continued-work">
-    Continued Work
-  </a>
-</li>
+<nav aria-label="Natural Language Processing" class="md-nav">
+<ul class="md-nav__list">
 <li class="md-nav__item">
 <a class="md-nav__link" href="#the-projects">
     The Projects
   </a>
+</li>
+</ul>
+</nav>
 </li>
 </ul>
 </nav>
@@ -401,63 +389,33 @@
   Hack: check whether the content contains a h1 headline. If it doesn't, the
   page title (or respectively site name) is used as the main headline.
 -->
-<h1>ML Work</h1>
+<h1>Nlp overview</h1>
 <!-- Page content -->
-<p>Back in 2022 I took an introduction to Machine Learning with the wonderful <a href="https://www.linkedin.com/in/mazidiaiconsulting/">Karen Mazidi</a> who gave us a large overview of both data science basics, and basic machine learning. The class was project based, with a focus on providing documentation of the process.</p>
-<h3 id="learning-in-r">Learning in R<a class="headerlink" href="#learning-in-r" title="Permanent link">¶</a></h3>
-<p>We covered using R for a variety of algorithms:</p>
+<h2 id="natural-language-processing">Natural Language Processing<a class="headerlink" href="#natural-language-processing" title="Permanent link">¶</a></h2>
+<p>Continuing my study in machine learning, I decided to focus on language processing and take a class on NLP. My class focused on learning the various libraries and ML techniques we use to under stand language, and scaling that up in python all the way to deep learning in python. We covered:</p>
 <ul>
-<li>Linear Regression</li>
-<li>Logistic Regression</li>
-<li>Naive Bayes</li>
-<li>kNN</li>
-<li>k-means Clustering</li>
-<li>Decision Trees and Random Forests</li>
-<li>Support Vector Machines</li>
+<li>Foundational NLP Language distinctions like Parts of Speech and word, sentance, and corpora</li>
+<li>Basic Python usage with NLTK for preprocessing</li>
+<li>Wordnet and building word relationships</li>
+<li>N-gram models for language generation</li>
+<li>Context Free Grammars</li>
+<li>Numpy, pandas, scikit-learn, and seaborn</li>
+<li>Naive Bayes and Logistic Regression for NLP</li>
+<li>Keras for CNN’s, RNN’s, LSTM and GRU</li>
+<li>Using embeddings along with decoders and encoders</li>
 </ul>
-<p>As well as best practices for picking good attributes for analysis, cleaning up data in CSVs, and visualizing the results</p>
-<h3 id="learning-in-python">Learning in Python<a class="headerlink" href="#learning-in-python" title="Permanent link">¶</a></h3>
-<p>We then pivoted to implementing these solutions in the Python package ecosystem, using:</p>
-<ul>
-<li>NumPy</li>
-<li>Pandas</li>
-<li>Scikit-Learn</li>
-<li>Seaborn</li>
-</ul>
-<p>To implement all the algorithms we just learned. Python allowed us to branch into Neural Networks using <em>Keras</em> for the implementation of zero-shot classification</p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>We even touched on Hidden Markov Models and Bayesian nets, but not much on their implementation</p>
-</div>
-<h3 id="continued-work">Continued Work<a class="headerlink" href="#continued-work" title="Permanent link">¶</a></h3>
-<p>This class carried into my work in NLP, which happened to coincide with the emergence of Open-AI’s ChatGPT. <a href="../nlp%20overview/" title="Check it out">Check it out</a> for work on more advanced neural nets</p>
+<p>For all of these topics we did various projects to get better at implementing our knowledge and sharing it using jupyter notebooks.</p>
 <h3 id="the-projects">The Projects<a class="headerlink" href="#the-projects" title="Permanent link">¶</a></h3>
-<div class="admonition seealso">
-<p class="admonition-title">While I will leave my original code open source on <a href="https://github.com/zaiquiriw/ml-portfolio/tree/main">github</a> the following brief summaries will link to pdfs summarizing the projects.</p>
-</div>
+<p>If you would like to view the code and notebook work related to these projects they are still posted on <a href="https%3A/github.com/zaiquiriw/nlp-portfolio" title="github">github</a> to view! However here are some short summaries of my work in NLP. I value my <a href="../Summary_of_Attention_Article.pdf" title="analysis of attention as an explainability metric">analysis of attention as an explainability metric</a> if you would like to view it!</p>
 <ul>
-<li><a href="data%20exploration/" title="Low Level Basics">Low Level Basics</a>: I worked a little bit in C++ to implement basic statistics calculations, just to make sure I had the swing of things.</li>
-<li><strong><em>Linear Models</em></strong>: Assuming that problem, its input and output, are linearly related, there are multiple ways to create a predictive supervised model:<ul>
-<li><a href="../linear%20regression.pdf" title="Linear Regression">Linear Regression</a></li>
-<li><a href="../linear%20classification.pdf" title="Linear Classification">Linear Classification</a>: Naive Bayes and Logistic Regression</li>
-<li><a href="../from%20scratch.pdf" title="Building From Scratch">Building From Scratch</a></li>
+<li><a href="../wordnet.pdf" title="Wordnets">Wordnets</a>: This is an exploration of how wordnets can reveal complex meanings of words not simply found in the definition</li>
+<li><a href="../ngrams-assignment.pdf" title="N-grams">N-grams</a>: Just a brief description of ngrams to illustrate their usefulness</li>
+<li><a href="../summary.pdf" title="Netscraping for LLM's">Netscraping for LLM’s</a>: I used BeautifulSoup to scrape the web for an LLM</li>
+<li><a href="../text-classification.pdf" title="text-classification.pdf">text-classification.pdf</a>: I used simple Neural Networks with the goal of building a network that could be used to train a network on imitating characters (in this case Rick and Morty’s voice and tone)</li>
+<li><a href="../Summary_of_Attention_Article.pdf" title="The Impact of Attention">The Impact of Attention</a>: This short paper summarizes a paper on the impact of a “Is Attention Explanation” and bridges the creation of modern GPTs into the now pressing Alignment problem and other consequences of modern attention. A personal favorite project where I explored the quakes in AI research sudden prominence of new AI techniques.</li>
+<li><a href="../RickMortyTwo.pdf" title="More Rick And Morty">More Rick And Morty</a>: I liked to have fun, so I did a take two on classifying text based on the Rick and Morty voice. However, it came out more on a study on how you can’t squeeze data to work your use case. You just have to work with the data you have. </li>
 </ul>
-</li>
-<li><strong><em>Similarities</em></strong>: If instead of predicting a target value, we just wanted to understand the data, we have many different methods of breaking down complex (and high dimensional) data. This works hand in hand with dimensionality reduction. I have more on the subject <a href="../similarities%20main.pdf" title="here">here</a>. kNN and K-means algorithms were both good tools to improve the performance of our previous models.<ul>
-<li><a href="../similarities%20regression.pdf" title="Using similarties to improve regression">Using similarties to improve regression</a></li>
-<li><a href="../similarities%20classification.pdf" title="Using similarities to improve classification">Using similarities to improve classification</a></li>
-<li><a href="../Clustering.pdf" title="Clustering Spotify genres">Clustering Spotify genres</a></li>
-<li><a href="../Dimensionality.pdf" title="Failed dimensionality reduction of Spotify">Failed dimensionality reduction of Spotify</a></li>
-</ul>
-</li>
-<li><strong><em>Support Vector Machines</em></strong>: SVM’s divide data in such a way that optimizes the margin between data. While we can perhaps visualize data being split by a line for classification, this method can not only be used for high dimensional classification but regression as well. I have a much better description <a href="../SVM%20and%20ensemble.pdf" title="here">here</a>.<ul>
-<li><a href="../ClassificationSVM.pdf" title="Classifciaton with SVMs">Classifciaton with SVMs</a></li>
-<li><a href="../RegressionSVM.pdf" title="Regression with SVMs">Regression with SVMs</a></li>
-</ul>
-</li>
-<li><strong><em>Neural Networks</em></strong>: While I explore neural networks in full in my future <a href="../nlp%20overview/" title="Natural Language Processing">Natural Language Processing</a> class, we still got some experience with how neural networks work with keras and tensorflow. Using RNN, CNN, and even finetuning on Google’s MobileNet V2, I was able to create a pretty good <a href="../keras_image_recognition.pdf" title="rice identification model">rice identification model</a>.</li>
-</ul>
-<p>Out of anything I would recommend reading my <a href="../keras_image_recognition.pdf" title="Keras Image Classification">Keras Image Classification</a> paper for a good picture of the progress made in this class. Needless to say this was maybe the second most impactful class of my degree, right before <a href="../nlp%20overview/" title="NLP">NLP</a>.</p>
+<p>I came out of this class <em>really</em> wanting to do more research, but I did not want to jump right into a masters. Perhaps one day, but I need a break after 16 or so years of schooling. I do feel very comfortable in data science, and I value that greatly!</p>
 <!-- Source file information -->
 <!-- taken from 
 https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/source-file.html -->
@@ -466,11 +424,11 @@ https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/source-fil
 <small>
 <!-- mkdocs-git-revision-date-localized-plugin -->
 <u>Last update</u> :
-        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">October 29, 2023</span>
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 15, 2023</span>
 <!-- mkdocs-git-revision-date-plugin -->
 <br/>
 <u>Created</u> :
-        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">October 25, 2023</span>
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">October 26, 2023</span>
 </small>
 </div>
 <!-- Was this page helpful? -->
@@ -481,7 +439,7 @@ https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/source-fil
     try {
       const index = document.querySelector('h1').innerHTML;
       if (index === "Index") {
-        document.querySelector('h1').innerHTML = "ML Work";
+        document.querySelector('h1').innerHTML = "Nlp overview";
       }
     } catch (error) {
       // console.log(error);

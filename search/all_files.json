@@ -102,6 +102,12 @@
         "url": "ngrams-assignment.pdf"
     },
     {
+        "src_uri": "nlp overview.md",
+        "dest_uri": "nlp%20overview/",
+        "name": "nlp overview",
+        "url": "nlp%20overview/"
+    },
+    {
         "src_uri": "overview-of-nlp.pdf",
         "dest_uri": "overview-of-nlp.pdf",
         "name": "overview-of-nlp",
@@ -162,6 +168,18 @@
         "url": "wordnet.pdf"
     },
     {
+        "src_uri": "ML Work/data exploration.md",
+        "dest_uri": "ML%20Work/data%20exploration/",
+        "name": "data exploration",
+        "url": "ML%20Work/data%20exploration/"
+    },
+    {
+        "src_uri": "ML Work/ml overview.md",
+        "dest_uri": "ML%20Work/ml%20overview/",
+        "name": "ml overview",
+        "url": "ML%20Work/ml%20overview/"
+    },
+    {
         "src_uri": "assets/css/.push",
         "dest_uri": "assets/css/.push",
         "name": ".push",
@@ -210,22 +228,34 @@
         "url": "hidden/.pages"
     },
     {
+        "src_uri": "obsidian/copart internship.md",
+        "dest_uri": "obsidian/copart%20internship/",
+        "name": "copart internship",
+        "url": "obsidian/copart%20internship/"
+    },
+    {
+        "src_uri": "obsidian/portfolio cleanup.md",
+        "dest_uri": "obsidian/portfolio%20cleanup/",
+        "name": "portfolio cleanup",
+        "url": "obsidian/portfolio%20cleanup/"
+    },
+    {
         "src_uri": "assets/images/favicon.png",
         "dest_uri": "assets/images/favicon.png",
         "name": "favicon",
         "url": "assets/images/favicon.png"
     },
     {
-        "src_uri": "assets/javascripts/bundle.aecac24b.min.js",
-        "dest_uri": "assets/javascripts/bundle.aecac24b.min.js",
-        "name": "bundle.aecac24b.min",
-        "url": "assets/javascripts/bundle.aecac24b.min.js"
+        "src_uri": "assets/javascripts/bundle.81fa17fe.min.js",
+        "dest_uri": "assets/javascripts/bundle.81fa17fe.min.js",
+        "name": "bundle.81fa17fe.min",
+        "url": "assets/javascripts/bundle.81fa17fe.min.js"
     },
     {
-        "src_uri": "assets/javascripts/bundle.aecac24b.min.js.map",
-        "dest_uri": "assets/javascripts/bundle.aecac24b.min.js.map",
-        "name": "bundle.aecac24b.min.js",
-        "url": "assets/javascripts/bundle.aecac24b.min.js.map"
+        "src_uri": "assets/javascripts/bundle.81fa17fe.min.js.map",
+        "dest_uri": "assets/javascripts/bundle.81fa17fe.min.js.map",
+        "name": "bundle.81fa17fe.min.js",
+        "url": "assets/javascripts/bundle.81fa17fe.min.js.map"
     },
     {
         "src_uri": "assets/javascripts/lunr/min/lunr.ar.min.js",
