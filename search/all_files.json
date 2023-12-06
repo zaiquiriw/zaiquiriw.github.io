@@ -228,12 +228,6 @@
         "url": "hidden/.pages"
     },
     {
-        "src_uri": "obsidian/copart internship.md",
-        "dest_uri": "obsidian/copart%20internship/",
-        "name": "copart internship",
-        "url": "obsidian/copart%20internship/"
-    },
-    {
         "src_uri": "obsidian/portfolio cleanup.md",
         "dest_uri": "obsidian/portfolio%20cleanup/",
         "name": "portfolio cleanup",
@@ -246,16 +240,16 @@
         "url": "assets/images/favicon.png"
     },
     {
-        "src_uri": "assets/javascripts/bundle.81fa17fe.min.js",
-        "dest_uri": "assets/javascripts/bundle.81fa17fe.min.js",
-        "name": "bundle.81fa17fe.min",
-        "url": "assets/javascripts/bundle.81fa17fe.min.js"
+        "src_uri": "assets/javascripts/bundle.cd18aaf1.min.js",
+        "dest_uri": "assets/javascripts/bundle.cd18aaf1.min.js",
+        "name": "bundle.cd18aaf1.min",
+        "url": "assets/javascripts/bundle.cd18aaf1.min.js"
     },
     {
-        "src_uri": "assets/javascripts/bundle.81fa17fe.min.js.map",
-        "dest_uri": "assets/javascripts/bundle.81fa17fe.min.js.map",
-        "name": "bundle.81fa17fe.min.js",
-        "url": "assets/javascripts/bundle.81fa17fe.min.js.map"
+        "src_uri": "assets/javascripts/bundle.cd18aaf1.min.js.map",
+        "dest_uri": "assets/javascripts/bundle.cd18aaf1.min.js.map",
+        "name": "bundle.cd18aaf1.min.js",
+        "url": "assets/javascripts/bundle.cd18aaf1.min.js.map"
     },
     {
         "src_uri": "assets/javascripts/lunr/min/lunr.ar.min.js",
@@ -474,16 +468,16 @@
         "url": "assets/javascripts/workers/search.f886a092.min.js.map"
     },
     {
-        "src_uri": "assets/stylesheets/main.4b4a2bd9.min.css",
-        "dest_uri": "assets/stylesheets/main.4b4a2bd9.min.css",
-        "name": "main.4b4a2bd9.min",
-        "url": "assets/stylesheets/main.4b4a2bd9.min.css"
+        "src_uri": "assets/stylesheets/main.fad675c6.min.css",
+        "dest_uri": "assets/stylesheets/main.fad675c6.min.css",
+        "name": "main.fad675c6.min",
+        "url": "assets/stylesheets/main.fad675c6.min.css"
     },
     {
-        "src_uri": "assets/stylesheets/main.4b4a2bd9.min.css.map",
-        "dest_uri": "assets/stylesheets/main.4b4a2bd9.min.css.map",
-        "name": "main.4b4a2bd9.min.css",
-        "url": "assets/stylesheets/main.4b4a2bd9.min.css.map"
+        "src_uri": "assets/stylesheets/main.fad675c6.min.css.map",
+        "dest_uri": "assets/stylesheets/main.fad675c6.min.css.map",
+        "name": "main.fad675c6.min.css",
+        "url": "assets/stylesheets/main.fad675c6.min.css.map"
     },
     {
         "src_uri": "assets/stylesheets/palette.356b1318.min.css",
