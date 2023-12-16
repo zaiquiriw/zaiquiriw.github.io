@@ -102,12 +102,6 @@
         "url": "ngrams-assignment.pdf"
     },
     {
-        "src_uri": "nlp overview.md",
-        "dest_uri": "nlp%20overview/",
-        "name": "nlp overview",
-        "url": "nlp%20overview/"
-    },
-    {
         "src_uri": "overview-of-nlp.pdf",
         "dest_uri": "overview-of-nlp.pdf",
         "name": "overview-of-nlp",
