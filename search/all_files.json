@@ -6,162 +6,6 @@
         "url": "./"
     },
     {
-        "src_uri": "ClassificationSVM.pdf",
-        "dest_uri": "ClassificationSVM.pdf",
-        "name": "ClassificationSVM",
-        "url": "ClassificationSVM.pdf"
-    },
-    {
-        "src_uri": "Clustering.pdf",
-        "dest_uri": "Clustering.pdf",
-        "name": "Clustering",
-        "url": "Clustering.pdf"
-    },
-    {
-        "src_uri": "Dimensionality.pdf",
-        "dest_uri": "Dimensionality.pdf",
-        "name": "Dimensionality",
-        "url": "Dimensionality.pdf"
-    },
-    {
-        "src_uri": "ML Work.md",
-        "dest_uri": "ML%20Work/",
-        "name": "ML Work",
-        "url": "ML%20Work/"
-    },
-    {
-        "src_uri": "NLP Work.md",
-        "dest_uri": "NLP%20Work/",
-        "name": "NLP Work",
-        "url": "NLP%20Work/"
-    },
-    {
-        "src_uri": "RegressionSVM.pdf",
-        "dest_uri": "RegressionSVM.pdf",
-        "name": "RegressionSVM",
-        "url": "RegressionSVM.pdf"
-    },
-    {
-        "src_uri": "RickMortyTwo.pdf",
-        "dest_uri": "RickMortyTwo.pdf",
-        "name": "RickMortyTwo",
-        "url": "RickMortyTwo.pdf"
-    },
-    {
-        "src_uri": "SVM and ensemble.pdf",
-        "dest_uri": "SVM%20and%20ensemble.pdf",
-        "name": "SVM and ensemble",
-        "url": "SVM%20and%20ensemble.pdf"
-    },
-    {
-        "src_uri": "Summary_of_Attention_Article.pdf",
-        "dest_uri": "Summary_of_Attention_Article.pdf",
-        "name": "Summary_of_Attention_Article",
-        "url": "Summary_of_Attention_Article.pdf"
-    },
-    {
-        "src_uri": "from scratch.pdf",
-        "dest_uri": "from%20scratch.pdf",
-        "name": "from scratch",
-        "url": "from%20scratch.pdf"
-    },
-    {
-        "src_uri": "hugging-face.ipynb - Colaboratory.pdf",
-        "dest_uri": "hugging-face.ipynb%20-%20Colaboratory.pdf",
-        "name": "hugging-face.ipynb - Colaboratory",
-        "url": "hugging-face.ipynb%20-%20Colaboratory.pdf"
-    },
-    {
-        "src_uri": "keras_image_recognition.pdf",
-        "dest_uri": "keras_image_recognition.pdf",
-        "name": "keras_image_recognition",
-        "url": "keras_image_recognition.pdf"
-    },
-    {
-        "src_uri": "linear classification.pdf",
-        "dest_uri": "linear%20classification.pdf",
-        "name": "linear classification",
-        "url": "linear%20classification.pdf"
-    },
-    {
-        "src_uri": "linear regression.pdf",
-        "dest_uri": "linear%20regression.pdf",
-        "name": "linear regression",
-        "url": "linear%20regression.pdf"
-    },
-    {
-        "src_uri": "ml-overview.pdf",
-        "dest_uri": "ml-overview.pdf",
-        "name": "ml-overview",
-        "url": "ml-overview.pdf"
-    },
-    {
-        "src_uri": "ngrams-assignment.pdf",
-        "dest_uri": "ngrams-assignment.pdf",
-        "name": "ngrams-assignment",
-        "url": "ngrams-assignment.pdf"
-    },
-    {
-        "src_uri": "overview-of-nlp.pdf",
-        "dest_uri": "overview-of-nlp.pdf",
-        "name": "overview-of-nlp",
-        "url": "overview-of-nlp.pdf"
-    },
-    {
-        "src_uri": "report.pdf",
-        "dest_uri": "report.pdf",
-        "name": "report",
-        "url": "report.pdf"
-    },
-    {
-        "src_uri": "resume-10-23.pdf",
-        "dest_uri": "resume-10-23.pdf",
-        "name": "resume-10-23",
-        "url": "resume-10-23.pdf"
-    },
-    {
-        "src_uri": "sentence_parsing.pdf",
-        "dest_uri": "sentence_parsing.pdf",
-        "name": "sentence_parsing",
-        "url": "sentence_parsing.pdf"
-    },
-    {
-        "src_uri": "similarities classification.pdf",
-        "dest_uri": "similarities%20classification.pdf",
-        "name": "similarities classification",
-        "url": "similarities%20classification.pdf"
-    },
-    {
-        "src_uri": "similarities main.pdf",
-        "dest_uri": "similarities%20main.pdf",
-        "name": "similarities main",
-        "url": "similarities%20main.pdf"
-    },
-    {
-        "src_uri": "similarities regression.pdf",
-        "dest_uri": "similarities%20regression.pdf",
-        "name": "similarities regression",
-        "url": "similarities%20regression.pdf"
-    },
-    {
-        "src_uri": "summary.pdf",
-        "dest_uri": "summary.pdf",
-        "name": "summary",
-        "url": "summary.pdf"
-    },
-    {
-        "src_uri": "text-classification.pdf",
-        "dest_uri": "text-classification.pdf",
-        "name": "text-classification",
-        "url": "text-classification.pdf"
-    },
-    {
-        "src_uri": "wordnet.pdf",
-        "dest_uri": "wordnet.pdf",
-        "name": "wordnet",
-        "url": "wordnet.pdf"
-    },
-    {
         "src_uri": "ML Work/data exploration.md",
         "dest_uri": "ML%20Work/data%20exploration/",
         "name": "data exploration",
@@ -172,6 +16,162 @@
         "dest_uri": "ML%20Work/ml%20overview/",
         "name": "ml overview",
         "url": "ML%20Work/ml%20overview/"
+    },
+    {
+        "src_uri": "ML Work/old/ClassificationSVM.pdf",
+        "dest_uri": "ML%20Work/old/ClassificationSVM.pdf",
+        "name": "ClassificationSVM",
+        "url": "ML%20Work/old/ClassificationSVM.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/Clustering.pdf",
+        "dest_uri": "ML%20Work/old/Clustering.pdf",
+        "name": "Clustering",
+        "url": "ML%20Work/old/Clustering.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/Dimensionality.pdf",
+        "dest_uri": "ML%20Work/old/Dimensionality.pdf",
+        "name": "Dimensionality",
+        "url": "ML%20Work/old/Dimensionality.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/ML Work.md",
+        "dest_uri": "ML%20Work/old/ML%20Work/",
+        "name": "ML Work",
+        "url": "ML%20Work/old/ML%20Work/"
+    },
+    {
+        "src_uri": "ML Work/old/NLP Work.md",
+        "dest_uri": "ML%20Work/old/NLP%20Work/",
+        "name": "NLP Work",
+        "url": "ML%20Work/old/NLP%20Work/"
+    },
+    {
+        "src_uri": "ML Work/old/RegressionSVM.pdf",
+        "dest_uri": "ML%20Work/old/RegressionSVM.pdf",
+        "name": "RegressionSVM",
+        "url": "ML%20Work/old/RegressionSVM.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/RickMortyTwo.pdf",
+        "dest_uri": "ML%20Work/old/RickMortyTwo.pdf",
+        "name": "RickMortyTwo",
+        "url": "ML%20Work/old/RickMortyTwo.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/SVM and ensemble.pdf",
+        "dest_uri": "ML%20Work/old/SVM%20and%20ensemble.pdf",
+        "name": "SVM and ensemble",
+        "url": "ML%20Work/old/SVM%20and%20ensemble.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/Summary_of_Attention_Article.pdf",
+        "dest_uri": "ML%20Work/old/Summary_of_Attention_Article.pdf",
+        "name": "Summary_of_Attention_Article",
+        "url": "ML%20Work/old/Summary_of_Attention_Article.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/from scratch.pdf",
+        "dest_uri": "ML%20Work/old/from%20scratch.pdf",
+        "name": "from scratch",
+        "url": "ML%20Work/old/from%20scratch.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/hugging-face.ipynb - Colaboratory.pdf",
+        "dest_uri": "ML%20Work/old/hugging-face.ipynb%20-%20Colaboratory.pdf",
+        "name": "hugging-face.ipynb - Colaboratory",
+        "url": "ML%20Work/old/hugging-face.ipynb%20-%20Colaboratory.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/keras_image_recognition.pdf",
+        "dest_uri": "ML%20Work/old/keras_image_recognition.pdf",
+        "name": "keras_image_recognition",
+        "url": "ML%20Work/old/keras_image_recognition.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/linear classification.pdf",
+        "dest_uri": "ML%20Work/old/linear%20classification.pdf",
+        "name": "linear classification",
+        "url": "ML%20Work/old/linear%20classification.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/linear regression.pdf",
+        "dest_uri": "ML%20Work/old/linear%20regression.pdf",
+        "name": "linear regression",
+        "url": "ML%20Work/old/linear%20regression.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/ml-overview.pdf",
+        "dest_uri": "ML%20Work/old/ml-overview.pdf",
+        "name": "ml-overview",
+        "url": "ML%20Work/old/ml-overview.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/ngrams-assignment.pdf",
+        "dest_uri": "ML%20Work/old/ngrams-assignment.pdf",
+        "name": "ngrams-assignment",
+        "url": "ML%20Work/old/ngrams-assignment.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/overview-of-nlp.pdf",
+        "dest_uri": "ML%20Work/old/overview-of-nlp.pdf",
+        "name": "overview-of-nlp",
+        "url": "ML%20Work/old/overview-of-nlp.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/report.pdf",
+        "dest_uri": "ML%20Work/old/report.pdf",
+        "name": "report",
+        "url": "ML%20Work/old/report.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/resume-10-23.pdf",
+        "dest_uri": "ML%20Work/old/resume-10-23.pdf",
+        "name": "resume-10-23",
+        "url": "ML%20Work/old/resume-10-23.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/sentence_parsing.pdf",
+        "dest_uri": "ML%20Work/old/sentence_parsing.pdf",
+        "name": "sentence_parsing",
+        "url": "ML%20Work/old/sentence_parsing.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/similarities classification.pdf",
+        "dest_uri": "ML%20Work/old/similarities%20classification.pdf",
+        "name": "similarities classification",
+        "url": "ML%20Work/old/similarities%20classification.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/similarities main.pdf",
+        "dest_uri": "ML%20Work/old/similarities%20main.pdf",
+        "name": "similarities main",
+        "url": "ML%20Work/old/similarities%20main.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/similarities regression.pdf",
+        "dest_uri": "ML%20Work/old/similarities%20regression.pdf",
+        "name": "similarities regression",
+        "url": "ML%20Work/old/similarities%20regression.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/summary.pdf",
+        "dest_uri": "ML%20Work/old/summary.pdf",
+        "name": "summary",
+        "url": "ML%20Work/old/summary.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/text-classification.pdf",
+        "dest_uri": "ML%20Work/old/text-classification.pdf",
+        "name": "text-classification",
+        "url": "ML%20Work/old/text-classification.pdf"
+    },
+    {
+        "src_uri": "ML Work/old/wordnet.pdf",
+        "dest_uri": "ML%20Work/old/wordnet.pdf",
+        "name": "wordnet",
+        "url": "ML%20Work/old/wordnet.pdf"
     },
     {
         "src_uri": "assets/css/.push",
@@ -228,16 +228,16 @@
         "url": "assets/images/favicon.png"
     },
     {
-        "src_uri": "assets/javascripts/bundle.d7c377c4.min.js",
-        "dest_uri": "assets/javascripts/bundle.d7c377c4.min.js",
-        "name": "bundle.d7c377c4.min",
-        "url": "assets/javascripts/bundle.d7c377c4.min.js"
+        "src_uri": "assets/javascripts/bundle.5090c770.min.js",
+        "dest_uri": "assets/javascripts/bundle.5090c770.min.js",
+        "name": "bundle.5090c770.min",
+        "url": "assets/javascripts/bundle.5090c770.min.js"
     },
     {
-        "src_uri": "assets/javascripts/bundle.d7c377c4.min.js.map",
-        "dest_uri": "assets/javascripts/bundle.d7c377c4.min.js.map",
-        "name": "bundle.d7c377c4.min.js",
-        "url": "assets/javascripts/bundle.d7c377c4.min.js.map"
+        "src_uri": "assets/javascripts/bundle.5090c770.min.js.map",
+        "dest_uri": "assets/javascripts/bundle.5090c770.min.js.map",
+        "name": "bundle.5090c770.min.js",
+        "url": "assets/javascripts/bundle.5090c770.min.js.map"
     },
     {
         "src_uri": "assets/javascripts/lunr/min/lunr.ar.min.js",
@@ -444,28 +444,28 @@
         "url": "assets/javascripts/lunr/wordcut.js"
     },
     {
-        "src_uri": "assets/javascripts/workers/search.f886a092.min.js",
-        "dest_uri": "assets/javascripts/workers/search.f886a092.min.js",
-        "name": "search.f886a092.min",
-        "url": "assets/javascripts/workers/search.f886a092.min.js"
+        "src_uri": "assets/javascripts/workers/search.f8cc74c7.min.js",
+        "dest_uri": "assets/javascripts/workers/search.f8cc74c7.min.js",
+        "name": "search.f8cc74c7.min",
+        "url": "assets/javascripts/workers/search.f8cc74c7.min.js"
     },
     {
-        "src_uri": "assets/javascripts/workers/search.f886a092.min.js.map",
-        "dest_uri": "assets/javascripts/workers/search.f886a092.min.js.map",
-        "name": "search.f886a092.min.js",
-        "url": "assets/javascripts/workers/search.f886a092.min.js.map"
+        "src_uri": "assets/javascripts/workers/search.f8cc74c7.min.js.map",
+        "dest_uri": "assets/javascripts/workers/search.f8cc74c7.min.js.map",
+        "name": "search.f8cc74c7.min.js",
+        "url": "assets/javascripts/workers/search.f8cc74c7.min.js.map"
     },
     {
-        "src_uri": "assets/stylesheets/main.50c56a3b.min.css",
-        "dest_uri": "assets/stylesheets/main.50c56a3b.min.css",
-        "name": "main.50c56a3b.min",
-        "url": "assets/stylesheets/main.50c56a3b.min.css"
+        "src_uri": "assets/stylesheets/main.a40c8224.min.css",
+        "dest_uri": "assets/stylesheets/main.a40c8224.min.css",
+        "name": "main.a40c8224.min",
+        "url": "assets/stylesheets/main.a40c8224.min.css"
     },
     {
-        "src_uri": "assets/stylesheets/main.50c56a3b.min.css.map",
-        "dest_uri": "assets/stylesheets/main.50c56a3b.min.css.map",
-        "name": "main.50c56a3b.min.css",
-        "url": "assets/stylesheets/main.50c56a3b.min.css.map"
+        "src_uri": "assets/stylesheets/main.a40c8224.min.css.map",
+        "dest_uri": "assets/stylesheets/main.a40c8224.min.css.map",
+        "name": "main.a40c8224.min.css",
+        "url": "assets/stylesheets/main.a40c8224.min.css.map"
     },
     {
         "src_uri": "assets/stylesheets/palette.06af60db.min.css",
